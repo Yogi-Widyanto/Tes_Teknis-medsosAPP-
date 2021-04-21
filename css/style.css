@@ -1,0 +1,25 @@
+.jarak {
+    margin-top: 10%; 
+}
+#submitLogin {
+    margin-top: 40px;
+    background: rgb(57, 226, 127);
+    color: white;
+}
+#submitDaftar {
+    background: rgb(57, 226, 127);
+    color: white;
+    text-decoration: none;
+}
+
+#show {
+    width: 20px;
+    height: 20px;
+
+}
+.eror {
+    display: inline-block;
+    margin-left: 40px;
+    font-style: italic;
+    color: red;
+}

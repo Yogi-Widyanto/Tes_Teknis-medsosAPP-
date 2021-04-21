@@ -1,0 +1,29 @@
+.sebaris input{
+    display: inline-block;
+}
+
+.sebaris input {
+    width: 230px;
+}
+.jarak {
+    margin-bottom: 20px;
+}
+.posisi-hati {
+    margin-left: auto;
+    margin-right: auto;
+}
+.ukuran-gambar {
+    border: 2px solid blue;
+    border-radius: 20px;
+    height: 300px;
+}
+.ukuran-gambar img{
+    height: 250px;
+    width: auto;
+    margin-left: 15%;
+    margin-right: auto;
+    margin-top: 2%;
+}
+.kotak {
+    margin-top: 10px;
+}
